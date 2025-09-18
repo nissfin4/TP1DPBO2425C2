@@ -17,4 +17,5 @@ Alur utama program berjalan di dalam fungsi main(). Program menampilkan menu int
 flow code: saat program dijalankan, menu utama muncul di layar. Pengguna lalu memilih opsi sesuai kebutuhan. Jika memilih tambah Data, program meminta pengguna memasukkan ID, nama, merk, harga, dan stok, lalu menyimpannya ke dalam array. Jika memilih tampilkan Data, seluruh isi array ditampilkan ke layar. Saat pengguna memilih update data atau hapus Data, program akan mencari produk berdasarkan ID. Jika ID ditemukan, data produk akan diperbarui atau dihapus sesuai perintah. Untuk cari data, program menampilkan detail produk yang sesuai dengan ID yang dimasukkan. Proses ini akan terus berulang hingga pengguna memilih opsi keluar, yang kemudian menghentikan program.
 
 Dokumentasi:
-dokumentasi/Screenshot (1731).png
+![](dokumentasi/java.png).
+
